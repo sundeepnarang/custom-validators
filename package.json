@@ -3,8 +3,18 @@
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sundeepnarang/custom-validators.git"
+  },
+  "author": "Sundeep Narang <sundeepnrng@gmail.com> (http://sundeepnarang.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sundeepnarang/custom-validators/issues"
+  },
+  "homepage": "https://github.com/sundeepnarang/custom-validators",
   "dependencies": {
   }
 }
